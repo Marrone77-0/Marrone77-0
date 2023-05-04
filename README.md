@@ -4,7 +4,6 @@
 - ⚡ Olá, tenho 21 anos, amo ler, aprender, tecnologia, e um bom café.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na (FAM).
 - 📚 Atualmente aprendendo:
-     - Flask 
      - Html Css JavaScript 
 - 💬 Pergunte-me sobre <b>Tecnologia, Psicologia, Neurociência, Musica, One Piece.</b><br>
 - <i> ✏️ Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer - Confúcio</i>
