@@ -8,7 +8,7 @@
 
 
 
-<h3>🧬 Tecnologias:</h3>
+<h2>♟️ Tecnologias:</h3>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
