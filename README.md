@@ -20,6 +20,5 @@
 
 <h3>📫 Entre em contato:</h3>
 
- -  [Linkedin](https://www.linkedin.com/in/marrone-barbosa-de-almeida-7a9a80242/) 💼
  -  [Email](marronealmeidabr@gmail.com) 📧
   
