@@ -2,7 +2,7 @@
 
 🧐 About me:
 - ⚡ Amo tecnologia e inovação, hacking na veia!!!
-- 📚 Segunrança Ofensiva, PHP
+- 📚 Segurança Ofensiva, PHP
 - 💬 Pergunte-me sobre <b>Tecnologia, Psicologia, Hacking, Musica, One Piece.</b><br>
 - <i> ✏️ Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer - Confúcio</i>
 
