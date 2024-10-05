@@ -1,7 +1,7 @@
 <h2>print(f"Hello World, sou o {Marrone}")</h2>
 
 🧐 About me:
-- ⚡ Olá, tenho 21 anos, amo ler, aprender, tecnologia, e um bom café.
+- ⚡ Amo tecnologia e inovação, hacking na veia!!!
 - 📚 Atualmente aprendendo:
      - Segurança Ofensiva, PHP.
 - 💬 Pergunte-me sobre <b>Tecnologia, Psicologia, Neurociência, Musica, One Piece.</b><br>
